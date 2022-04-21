@@ -1,5 +1,5 @@
 <template>
-  <div class="top-menu">
+  <div class="top-menu align-center">
     <nuxt-link to="/">Starters</nuxt-link>
     <nuxt-link to="/lunch">Lunch</nuxt-link>
     <nuxt-link to="/desserts">Desserts</nuxt-link>
