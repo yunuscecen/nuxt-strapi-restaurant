@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-12">
-      <h1>Starters</h1>
+      <PageTitle pageTitle="Starters" />
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab delectus
         consequuntur eveniet, quasi voluptate natus, cum rerum sed voluptates
