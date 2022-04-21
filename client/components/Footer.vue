@@ -12,7 +12,4 @@
 export default {}
 </script>
 
-<style lang="scss">
-.logo {
-}
-</style>
+<style lang="scss"></style>
